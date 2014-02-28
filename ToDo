@@ -1,0 +1,10 @@
+# Foci for the project
+
+# lsof - list open files
+# netstat - print network connections, etc
+# fuser - identifies processes using files and sockets
+
+
+# thoughts:
+# these show overall things for our comp -- we'll need to filter them for just ones related to torrent, right?
+# lsof is a stream, netstat is a snapshot
