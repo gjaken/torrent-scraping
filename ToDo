@@ -1,10 +1,12 @@
-# Foci for the project
+# Completed:
+# scraping IPs from torrent upload, into text file
 
-# lsof - list open files
-# netstat - print network connections, etc
-# fuser - identifies processes using files and sockets
+# To Do:
+# dealing with data
+# > parsing out chunks of IP
+# > matching IP chunks with various information
+# >> get file with various country & other IP stats, or use an IP utitity with our extracted file of IPs
+
+# use data to point us toward further questions
 
 
-# thoughts:
-# these show overall things for our comp -- we'll need to filter them for just ones related to torrent, right?
-# lsof is a stream, netstat is a snapshot

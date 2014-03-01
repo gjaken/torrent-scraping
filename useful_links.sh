@@ -9,3 +9,11 @@
 # fuser
 # http://www.thegeekstuff.com/2012/02/linux-fuser-command/
 # http://linux.101hacks.com/unix/fuser/
+
+# port and socket
+# http://stackoverflow.com/questions/152457/what-is-the-difference-between-a-port-and-a-socket
+
+# parsing netstat for process name and PID
+# http://stackoverflow.com/questions/4247932/how-to-parse-netstat-command-in-order-to-get-process-name-and-pid-from-it
+
+
